@@ -74,9 +74,3 @@ button{
     color: #fff;
     cursor: pointer;
 }
-a{
-    text-decoration: none;
-    color: white;
-    opacity: .7;
-    backface-visibility: hidden;
-}
