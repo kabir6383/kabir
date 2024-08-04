@@ -3,8 +3,8 @@
     padding: 0;
 }
 .container{
-    width: 2340px;
-    height: 1080px;
+    width: 1080px;
+    height: 2340px;
     background: linear-gradient(to right,rgb(89, 141, 238,.7),rgba(221,123,132,.8));
     display: flex;
     align-items: center;
