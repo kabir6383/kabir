@@ -2,12 +2,6 @@
     margin: 0;
     padding: 0;
 }
-.dynamic{
-    width:800px;
-    height:1000px;
-    background-width:800px;
-    background-height:1000px;
-}
 .container{
     width: 100%;
     height: 100vh;
