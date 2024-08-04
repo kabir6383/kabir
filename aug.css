@@ -5,7 +5,8 @@
 .dynamic{
     width:800px;
     height:1000px;
-    background:800px 1000px;
+    background-width:800px;
+    background-height:1000px;
 }
 .container{
     width: 100%;
