@@ -13,8 +13,8 @@
 }
 .card{
     width:90%;
-    max-width: 380px;
-    height: 520px;
+    max-width: 480px;
+    height: 600px;
     box-shadow: 1px 2px 45px 20px rgba(255,255,255,.2);
     box-sizing: border-box;
     border-radius: 52px;
