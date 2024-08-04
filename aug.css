@@ -73,3 +73,17 @@ button{
     color: #fff;
     cursor: pointer;
 }
+@media (max-width: 600px) {
+    .card {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
+    .ipt, button {
+        height: 35px;
+        font-size: 14px;
+    }
+    h2 {
+        font-size: 18px;
+    }
+}
